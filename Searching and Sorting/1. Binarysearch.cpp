@@ -1,3 +1,7 @@
+//Binary Search
+//Given a sorted array arr[] of n elements, write a function to search a given element x in arr[] and return the index of x in the array.
+//https://www.geeksforgeeks.org/binary-search/
+
 #include <iostream>
 using namespace std;
 int binarysearch(int arr[],int x,int n)
