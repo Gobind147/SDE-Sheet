@@ -10,7 +10,9 @@ https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1
 https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
 4. Reverse array in groups
 https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1
-5.
+5. Convert array into Zig-Zag fashion
+https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1
+6. 
 
 
 
