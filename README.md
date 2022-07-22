@@ -1,6 +1,6 @@
 # SDE-Sheet
 list of questions
-(Total solved = 8)
+(Total solved = 9)
 
 Arrays
 1. Leaders in an array
@@ -13,7 +13,9 @@ https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
 https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1
 5. Convert array into Zig-Zag fashion
 https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1
-6. 
+6. Missing number in array
+https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
+7. 
 
 
 
