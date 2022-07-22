@@ -1,6 +1,6 @@
 # SDE-Sheet
 list of questions
-(Total solved = 9)
+(Total solved = 10)
 
 Arrays
 1. Leaders in an array
@@ -15,7 +15,9 @@ https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1
 https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1
 6. Missing number in array
 https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
-7. 
+7. K-th element of two sorted Arrays
+https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
+8. 
 
 
 
