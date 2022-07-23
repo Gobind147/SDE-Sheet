@@ -1,6 +1,6 @@
 # SDE-Sheet
 list of questions
-(Total solved = 10)
+(Total solved = 11)
 
 Arrays
 1. Leaders in an array
