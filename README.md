@@ -1,6 +1,6 @@
 # SDE-Sheet
 list of questions
-(Total solved = 12)
+(Total solved = 13)
 
 Arrays
 1. Leaders in an array
@@ -37,4 +37,6 @@ Hashing
 https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1
 2. Find the element that appears once in sorted array
 https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1
-3. 
+3. Find all pairs with a given sum
+https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1
+4. 
