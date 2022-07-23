@@ -1,6 +1,6 @@
 # SDE-Sheet
 list of questions
-(Total solved = 11)
+(Total solved = 12)
 
 Arrays
 1. Leaders in an array
@@ -35,4 +35,6 @@ https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array0959/1
 Hashing
 1. First element to occur k times
 https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1
-2. 
+2. Find the element that appears once in sorted array
+https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1
+3. 
