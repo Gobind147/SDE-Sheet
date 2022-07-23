@@ -29,3 +29,10 @@ https://www.geeksforgeeks.org/merge-two-sorted-arrays/
 3. Search an element in sorted and rotated array
 https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array0959/1
 4.
+
+
+
+Hashing
+1. First element to occur k times
+https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1
+2. 
