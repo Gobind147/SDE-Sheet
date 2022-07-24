@@ -1,6 +1,6 @@
 # SDE-Sheet
 list of questions
-(Total solved = 13)
+(Total solved = 14)
 
 Arrays
 1. Leaders in an array
@@ -28,7 +28,9 @@ https://www.geeksforgeeks.org/binary-search/
 https://www.geeksforgeeks.org/merge-two-sorted-arrays/
 3. Search an element in sorted and rotated array
 https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array0959/1
-4.
+4.Common Element
+https://practice.geeksforgeeks.org/problems/common-elements5420/1
+5. 
 
 
 
