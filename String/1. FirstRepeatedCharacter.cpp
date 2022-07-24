@@ -5,6 +5,10 @@
 //https://www.geeksforgeeks.org/find-the-first-repeated-character-in-a-string/
 
 
+//Time complexity : O(n) 
+//Auxiliary Space : O(n)
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
