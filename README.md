@@ -43,3 +43,10 @@ https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1
 4. Common Element
 https://practice.geeksforgeeks.org/problems/common-elements5420/1
 5. 
+
+
+
+String
+1. Find first repeated character
+https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0
+2. 
