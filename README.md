@@ -28,8 +28,7 @@ https://www.geeksforgeeks.org/binary-search/
 https://www.geeksforgeeks.org/merge-two-sorted-arrays/
 3. Search an element in sorted and rotated array
 https://practice.geeksforgeeks.org/problems/search-in-a-rotated-array0959/1
-4.Common Element
-https://practice.geeksforgeeks.org/problems/common-elements5420/1
+4.
 5. 
 
 
@@ -41,4 +40,6 @@ https://practice.geeksforgeeks.org/problems/first-element-to-occur-k-times5150/1
 https://practice.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1
 3. Find all pairs with a given sum
 https://practice.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1
-4. 
+4. Common Element
+https://practice.geeksforgeeks.org/problems/common-elements5420/1
+5. 
