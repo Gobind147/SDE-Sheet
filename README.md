@@ -1,6 +1,6 @@
 # SDE-Sheet
 list of questions
-(Total solved = 15)
+(Total solved = 16)
 
 Arrays
 1. Leaders in an array
@@ -49,4 +49,5 @@ https://practice.geeksforgeeks.org/problems/common-elements5420/1
 String
 1. Find first repeated character
 https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0
-2. 
+2. Reverse words in a given string
+https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
