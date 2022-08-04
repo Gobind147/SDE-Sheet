@@ -51,3 +51,10 @@ String
 https://practice.geeksforgeeks.org/problems/find-first-repeated-character/0
 2. Reverse words in a given string
 https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
+3.
+
+
+Dynamic Programming
+1. Longest Palindromic Subsequence
+https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0
+2. 
