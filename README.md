@@ -1,6 +1,6 @@
 # SDE-Sheet
 list of questions
-(Total solved = 17)
+(Total solved = 18)
 
 Arrays
 1. Leaders in an array
@@ -57,4 +57,6 @@ https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/
 Dynamic Programming
 1. Longest Palindromic Subsequence
 https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0
-2. 
+2. Longest Common Subsequence
+https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1
+3.
